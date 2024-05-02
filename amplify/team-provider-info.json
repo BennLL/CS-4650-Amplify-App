@@ -14,6 +14,12 @@
     "categories": {
       "auth": {
         "cs4650amplifyapp2e1561a7": {}
+      },
+      "api": {
+        "cs4650amplifyapp": {}
+      },
+      "storage": {
+        "imagestorage": {}
       }
     }
   }
